@@ -8,7 +8,7 @@ define(['dojo/_base/declare',
     'dijit/_WidgetBase',
     'dijit/_TemplatedMixin',
     'dijit/_WidgetsInTemplateMixin',
-    'scooter/attendeelist',
+    'scooter/AttendeeList',
     'scooter/utils',
     'dojox/css3/fx',
     'dojo/text!scooter/template/scooter.html'], function (declare, domConstruct, domStyle, _WidgetBase, _TemplatedMixin, _WidgetsInTemplateMixin, AttendeeList, utils, cssFX, template) {
